@@ -8,7 +8,7 @@
             <sparkle:version>2</sparkle:version>
             <sparkle:shortVersionString>0.2</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/NotifyYouInc/scoutify-releases/releases/download/v0.2/Scoutify-0.2.dmg" length="7255666" type="application/octet-stream" sparkle:edSignature="CNhLAsYYtzTc0PiJeBJbrgzvahOZXsgcCkS0g8g0GrbPFo4txfN3YViw+IhQGIP9YVXpHXiaGduuLSC20uI9Dw=="/>
+            <enclosure url="https://github.com/NotifyYouInc/scoutify-releases/releases/download/v0.2/Scoutify-0.2.dmg" length="7255681" type="application/octet-stream" sparkle:edSignature="jQh298ewmSVNW+1vALYP0vMyR/CLapEd/6zKN35x6eBG0cpS200BBm7hvw3gmGHing9b8+QLEfNhtNBnnRMzBA=="/>
         </item>
     </channel>
 </rss>
