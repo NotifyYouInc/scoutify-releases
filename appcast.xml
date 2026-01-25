@@ -8,6 +8,13 @@
             <sparkle:version>10</sparkle:version>
             <sparkle:shortVersionString>0.9.1</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+                <h2>What's New in 0.9.1</h2>
+                <ul>
+                    <li>Improved stability and performance</li>
+                    <li>Bug fixes</li>
+                </ul>
+            ]]></description>
             <enclosure url="https://github.com/NotifyYouInc/scoutify-releases/releases/download/v0.9.1/Scoutify-0.9.1.dmg" length="7256831" type="application/octet-stream" sparkle:edSignature="dMD4/Qsb+2AAvcOV8FbW5y9ULS5QfgoCTBiukwZgfnUQBgJqpgJu0wh2xfG1Y5FrGuQoYFlrRceSri4FLJNVDQ=="/>
         </item>
     </channel>
