@@ -15,7 +15,7 @@
                     <li>Added required entitlements for XPC installer service</li>
                 </ul>
             ]]></description>
-            <enclosure url="https://github.com/NotifyYouInc/scoutify-releases/releases/download/v0.9.2/Scoutify-0.9.2.dmg" length="4576201" type="application/octet-stream" sparkle:edSignature="umH6Fsa+450ca4TW54y1yap1VvtLkw3DtSkpd/ZPq+Gd81Jl5slb3f/Af2Ms0tHQmmT1FX+xDWQlX+/xvCxQCQ=="/>
+            <enclosure url="https://github.com/NotifyYouInc/scoutify-releases/releases/download/v0.9.2/Scoutify-0.9.2.dmg" length="4886518" type="application/octet-stream" sparkle:edSignature="uFsdVZSi+PUX0ESEoXzvsUhnKFROf27O4KfisRwWMIZufkPWTaqXQQoma9FwjjzlzV3rvx63W8nsTXq2Z5y8AQ=="/>
         </item>
         <item>
             <title>0.9.1</title>
