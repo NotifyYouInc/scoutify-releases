@@ -3,6 +3,20 @@
     <channel>
         <title>Scoutify</title>
         <item>
+            <title>0.9.3</title>
+            <pubDate>Sat, 24 Jan 2026 21:15:00 -0500</pubDate>
+            <sparkle:version>12</sparkle:version>
+            <sparkle:shortVersionString>0.9.3</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+                <h2>What's New in 0.9.3</h2>
+                <ul>
+                    <li>Updated feedback placeholder text</li>
+                </ul>
+            ]]></description>
+            <enclosure url="https://github.com/NotifyYouInc/scoutify-releases/releases/download/v0.9.3/Scoutify-0.9.3.dmg" length="4886576" type="application/octet-stream" sparkle:edSignature="apSuBgbZV8jTy7x3YTte+ULmCwzsAfmfyiX6nQ7vvzHfYFwkwi2YaDdQYE5YHWREc7tKEfew8rsAS00nmfSvBA=="/>
+        </item>
+        <item>
             <title>0.9.2</title>
             <pubDate>Sat, 24 Jan 2026 20:52:00 -0500</pubDate>
             <sparkle:version>11</sparkle:version>
