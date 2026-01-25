@@ -10,24 +10,5 @@
             <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
             <enclosure url="https://github.com/NotifyYouInc/scoutify-releases/releases/download/v0.9.1/Scoutify-0.9.1.dmg" length="7256831" type="application/octet-stream" sparkle:edSignature="dMD4/Qsb+2AAvcOV8FbW5y9ULS5QfgoCTBiukwZgfnUQBgJqpgJu0wh2xfG1Y5FrGuQoYFlrRceSri4FLJNVDQ=="/>
         </item>
-        <item>
-            <title>0.9</title>
-            <pubDate>Sat, 24 Jan 2026 18:53:41 -0500</pubDate>
-            <sparkle:version>9</sparkle:version>
-            <sparkle:shortVersionString>0.9</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/NotifyYouInc/scoutify-releases/releases/download/v0.9/Scoutify-0.9.dmg" length="7254202" type="application/octet-stream" sparkle:edSignature="es7hN6mfunW350Aa1Qy4wnS1PtIQ+sRwdfD1TUaxvl0hEps5clC8U5sQ+bBv1U39xghdIWdG57E2eg6KyR92Cg=="/>
-            <sparkle:deltas>
-                <enclosure url="https://github.com/NotifyYouInc/scoutify-releases/releases/download/v0.9/Scoutify9-2.delta" sparkle:deltaFrom="2" length="30190" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="860896" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="9b0E3rQuyLy0VoKktdx/pA9H2QKsaYcFAh2mHAoXaZBxwBon21XtWrzCS1ejuFdDA/w5NjmpaSBmbf5fSEdTAg=="/>
-            </sparkle:deltas>
-        </item>
-        <item>
-            <title>0.2</title>
-            <pubDate>Sat, 24 Jan 2026 14:21:13 -0500</pubDate>
-            <sparkle:version>2</sparkle:version>
-            <sparkle:shortVersionString>0.2</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/NotifyYouInc/scoutify-releases/releases/download/v0.9/Scoutify-0.2.dmg" length="7255681" type="application/octet-stream" sparkle:edSignature="jQh298ewmSVNW+1vALYP0vMyR/CLapEd/6zKN35x6eBG0cpS200BBm7hvw3gmGHing9b8+QLEfNhtNBnnRMzBA=="/>
-        </item>
     </channel>
 </rss>
