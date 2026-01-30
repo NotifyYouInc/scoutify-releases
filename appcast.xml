@@ -3,48 +3,23 @@
     <channel>
         <title>Scoutify</title>
         <item>
-            <title>0.9.3</title>
-            <pubDate>Sat, 24 Jan 2026 21:15:00 -0500</pubDate>
-            <sparkle:version>12</sparkle:version>
-            <sparkle:shortVersionString>0.9.3</sparkle:shortVersionString>
+            <title>0.3</title>
+            <pubDate>Fri, 30 Jan 2026 02:59:53 -0500</pubDate>
+            <sparkle:version>3</sparkle:version>
+            <sparkle:shortVersionString>0.3</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[
-                <h2>What's New in 0.9.3</h2>
-                <ul>
-                    <li>Updated feedback placeholder text</li>
-                </ul>
-            ]]></description>
-            <enclosure url="https://github.com/NotifyYouInc/scoutify-releases/releases/download/v0.9.3/Scoutify-0.9.3.dmg" length="4886576" type="application/octet-stream" sparkle:edSignature="apSuBgbZV8jTy7x3YTte+ULmCwzsAfmfyiX6nQ7vvzHfYFwkwi2YaDdQYE5YHWREc7tKEfew8rsAS00nmfSvBA=="/>
+            <enclosure url="https://github.com/NotifyYouInc/scoutify-releases/releases/download/v0.3/Scoutify-0.3.dmg" length="7221683" type="application/octet-stream" sparkle:edSignature="MCSRnxL12W6VF4332v1vEK8cGOy47MbLMbVvSsgJpD8fYT5JpaA/iAxOyRRdul8fM7H1cQnCaPSdEnuOPRyiAg=="/>
+            <sparkle:deltas>
+                <enclosure url="https://github.com/NotifyYouInc/scoutify-releases/releases/download/v0.3/Scoutify3-2.delta" sparkle:deltaFrom="2" length="202834" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="860896" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="ySYmsBGDwgdmpdF98yWkLONxoxYM1gNX52jJh18IVE6ny7JZgI+S8JLk3GKWrIIdrWKUE+59708s8fErp1B6Ag=="/>
+            </sparkle:deltas>
         </item>
         <item>
-            <title>0.9.2</title>
-            <pubDate>Sat, 24 Jan 2026 20:52:00 -0500</pubDate>
-            <sparkle:version>11</sparkle:version>
-            <sparkle:shortVersionString>0.9.2</sparkle:shortVersionString>
+            <title>0.2</title>
+            <pubDate>Sat, 24 Jan 2026 14:21:13 -0500</pubDate>
+            <sparkle:version>2</sparkle:version>
+            <sparkle:shortVersionString>0.2</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[
-                <h2>What's New in 0.9.2</h2>
-                <ul>
-                    <li>Fixed Sparkle auto-update installer for sandboxed apps</li>
-                    <li>Added required entitlements for XPC installer service</li>
-                </ul>
-            ]]></description>
-            <enclosure url="https://github.com/NotifyYouInc/scoutify-releases/releases/download/v0.9.2/Scoutify-0.9.2.dmg" length="4886518" type="application/octet-stream" sparkle:edSignature="uFsdVZSi+PUX0ESEoXzvsUhnKFROf27O4KfisRwWMIZufkPWTaqXQQoma9FwjjzlzV3rvx63W8nsTXq2Z5y8AQ=="/>
-        </item>
-        <item>
-            <title>0.9.1</title>
-            <pubDate>Sat, 24 Jan 2026 19:05:11 -0500</pubDate>
-            <sparkle:version>10</sparkle:version>
-            <sparkle:shortVersionString>0.9.1</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[
-                <h2>What's New in 0.9.1</h2>
-                <ul>
-                    <li>Improved stability and performance</li>
-                    <li>Bug fixes</li>
-                </ul>
-            ]]></description>
-            <enclosure url="https://github.com/NotifyYouInc/scoutify-releases/releases/download/v0.9.1/Scoutify-0.9.1.dmg" length="7256831" type="application/octet-stream" sparkle:edSignature="dMD4/Qsb+2AAvcOV8FbW5y9ULS5QfgoCTBiukwZgfnUQBgJqpgJu0wh2xfG1Y5FrGuQoYFlrRceSri4FLJNVDQ=="/>
+            <enclosure url="https://github.com/NotifyYouInc/scoutify-releases/releases/download/v0.3/Scoutify-0.2.dmg" length="7255666" type="application/octet-stream" sparkle:edSignature="CNhLAsYYtzTc0PiJeBJbrgzvahOZXsgcCkS0g8g0GrbPFo4txfN3YViw+IhQGIP9YVXpHXiaGduuLSC20uI9Dw=="/>
         </item>
     </channel>
 </rss>
