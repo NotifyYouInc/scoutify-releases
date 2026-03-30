@@ -5,6 +5,14 @@
         <item>
             <title>1.2.8</title>
             <pubDate>Mon, 30 Mar 2026 12:33:19 -0400</pubDate>
+            <sparkle:version>40</sparkle:version>
+            <sparkle:shortVersionString>1.2.8</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/NotifyYouInc/scoutify-releases/releases/download/v1.2.8/Scoutify-1.2.8.dmg" length="7411753" type="application/octet-stream" sparkle:edSignature="iZFQmLY2WuVx/WA+NEpgj1QTCgyPLO9ei25mHq+CXOwbZgXJfELiC9IhyfS5B24uzYWiI8uqtDdeHqgBLyhXAw=="/>
+        </item>
+        <item>
+            <title>1.2.8</title>
+            <pubDate>Mon, 30 Mar 2026 12:33:19 -0400</pubDate>
             <sparkle:version>39</sparkle:version>
             <sparkle:shortVersionString>1.2.8</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
@@ -17,14 +25,6 @@
             <sparkle:shortVersionString>1.2.8</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
             <enclosure url="https://github.com/NotifyYouInc/scoutify-releases/releases/download/v1.2.8/Scoutify-1.2.8.dmg" length="7399068" type="application/octet-stream" sparkle:edSignature="GL5lIbrVKrfmaBqCUMd0bx932ppgAa1/BRfT1qNVpTtGvmxLNPvN9zkEVGAxtILuIhcqmpBgN7IP/z20VNGbAw=="/>
-        </item>
-        <item>
-            <title>1.2.8</title>
-            <pubDate>Mon, 30 Mar 2026 12:33:19 -0400</pubDate>
-            <sparkle:version>37</sparkle:version>
-            <sparkle:shortVersionString>1.2.8</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/NotifyYouInc/scoutify-releases/releases/download/v1.2.8/Scoutify-1.2.8.dmg" length="7398903" type="application/octet-stream" sparkle:edSignature="k3Khcc+GRFrK+1L/A2wJ7/zTp6VDhTit4Fx7G7LyckFAhjy/FhF/1ACMGsXShFrJB1KwJRk0Rf0HT21j0JKeBg=="/>
         </item>
     </channel>
 </rss>
