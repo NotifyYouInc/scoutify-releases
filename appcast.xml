@@ -5,6 +5,14 @@
         <item>
             <title>1.2.8</title>
             <pubDate>Mon, 30 Mar 2026 12:33:19 -0400</pubDate>
+            <sparkle:version>38</sparkle:version>
+            <sparkle:shortVersionString>1.2.8</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/NotifyYouInc/scoutify-releases/releases/download/v1.2.8/Scoutify-1.2.8.dmg" length="7399068" type="application/octet-stream" sparkle:edSignature="GL5lIbrVKrfmaBqCUMd0bx932ppgAa1/BRfT1qNVpTtGvmxLNPvN9zkEVGAxtILuIhcqmpBgN7IP/z20VNGbAw=="/>
+        </item>
+        <item>
+            <title>1.2.8</title>
+            <pubDate>Mon, 30 Mar 2026 12:33:19 -0400</pubDate>
             <sparkle:version>37</sparkle:version>
             <sparkle:shortVersionString>1.2.8</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
@@ -23,21 +31,6 @@
                 <enclosure url="https://github.com/NotifyYouInc/scoutify-releases/releases/download/v1.2.7/Scoutify36-33.delta" sparkle:deltaFrom="33" length="507394" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="860560" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="oBHwTwwPsA50M+3hy/BcOTm2Q1i/zR1E7BJTBQyRaPdeg3zu7FRSzi5P69oRENatLX1OjWTJ4epeKekMQY7dAA=="/>
                 <enclosure url="https://github.com/NotifyYouInc/scoutify-releases/releases/download/v1.2.7/Scoutify36-32.delta" sparkle:deltaFrom="32" length="507454" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="860560" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="tFglwRJWl9O5cw4CNeG6vR8lOnixpLzH1iqvTz64ukHWd3HAytXAcmWMK1XsFZ1ws7O0vHSSe5a7qn0Sws4PCA=="/>
                 <enclosure url="https://github.com/NotifyYouInc/scoutify-releases/releases/download/v1.2.7/Scoutify36-31.delta" sparkle:deltaFrom="31" length="511662" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="860560" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="wiUTtXEv3kfIJYHVXvaOOvks2xEjMO+8ydfHMvUBWyGChxYZSe1Is4Riht9JrAsRYeHzw3SUnYdBfnlf8IFdDQ=="/>
-            </sparkle:deltas>
-        </item>
-        <item>
-            <title>1.2.6</title>
-            <pubDate>Fri, 27 Mar 2026 18:22:55 -0400</pubDate>
-            <sparkle:version>35</sparkle:version>
-            <sparkle:shortVersionString>1.2.6</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/NotifyYouInc/scoutify-releases/releases/download/v1.2.7/Scoutify-1.2.6.dmg" length="7436970" type="application/octet-stream" sparkle:edSignature="Gn7g8KgGVYF4Od4vXo+cD2ShXck05f3PnlLeGVpixfQIAW1Ul4eBZ60bXKzewooxGQpICtlDDIhff/K7OBmzAA=="/>
-            <sparkle:deltas>
-                <enclosure url="https://github.com/NotifyYouInc/scoutify-releases/releases/download/v1.2.6/Scoutify35-34.delta" sparkle:deltaFrom="34" length="468034" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="860560" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="1+DiqoykEEiM3BOjNRgbtGf/dxAu48bbXF6RLqdHp+L7Y7+5BpZJvXdBit11EBTEA8JwJGRaX75fJfl221hTDQ=="/>
-                <enclosure url="https://github.com/NotifyYouInc/scoutify-releases/releases/download/v1.2.6/Scoutify35-33.delta" sparkle:deltaFrom="33" length="495198" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="860560" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="hRowYJjnzAHisjlIsDsjIZvMbPWDUQJFG40LrORRlpL72N8GLHQewwkMxscbUmglL294Xc6dxnVdK7TL0Ww9BA=="/>
-                <enclosure url="https://github.com/NotifyYouInc/scoutify-releases/releases/download/v1.2.6/Scoutify35-32.delta" sparkle:deltaFrom="32" length="498158" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="860560" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="p07E5dUiycRcYtICheAyKNLNgYZ7GNlUSkMOllfH8ZyUy38dvLO6vJEDxC8EDVdpZES3I8EWljUSSA+iV5pwAQ=="/>
-                <enclosure url="https://github.com/NotifyYouInc/scoutify-releases/releases/download/v1.2.6/Scoutify35-31.delta" sparkle:deltaFrom="31" length="501598" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="860560" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="U465/cb6DVmYRaiELq4RbPCasYQyzgs4UMhbYTxH/fC4ELaWSMOeDJg6BJxkpsFyz5+zQVHXi5m20I63isjOAg=="/>
-                <enclosure url="https://github.com/NotifyYouInc/scoutify-releases/releases/download/v1.2.6/Scoutify35-30.delta" sparkle:deltaFrom="30" length="514214" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="860560" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="R+lSk2lVq4713cS8WuByjo8z5wYrVI6ydhtF0PoJgw4K1pMmVjx8pT9CNSmPtNDYAucO9S80be+3gii/67BJBQ=="/>
             </sparkle:deltas>
         </item>
     </channel>
