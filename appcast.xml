@@ -3,6 +3,14 @@
     <channel>
         <title>Scoutify</title>
         <item>
+            <title>1.5.10</title>
+            <pubDate>Sun, 02 Aug 2026 15:19:38 -0400</pubDate>
+            <sparkle:version>58</sparkle:version>
+            <sparkle:shortVersionString>1.5.10</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/NotifyYouInc/scoutify-releases/releases/download/v1.5.10/Scoutify-1.5.10.dmg" length="3204646" type="application/octet-stream" sparkle:edSignature="6B5OHOqZrD5sjSwqJXXE0eTHCFsCIyWb5UCJnWP5XJw4AohfLjhEqvzmKst5zKsfqpKtN3XFIILzcaO17pDMCQ=="/>
+        </item>
+        <item>
             <title>1.5.9</title>
             <pubDate>Sat, 01 Aug 2026 21:09:50 -0400</pubDate>
             <sparkle:version>57</sparkle:version>
@@ -17,21 +25,6 @@
             <sparkle:shortVersionString>1.5.8</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
             <enclosure url="https://github.com/NotifyYouInc/scoutify-releases/releases/download/v1.5.8/Scoutify-1.5.8.dmg" length="3201999" type="application/octet-stream" sparkle:edSignature="C4YRI8NsNTABYRFV80Ozscg2HxxOlSPGPgpO3eAKijVlTRm+aybAHZxS3Ng9HJQI28AwbRPVb98BV45IQbV8Cg=="/>
-        </item>
-        <item>
-            <title>1.5.7</title>
-            <pubDate>Tue, 14 Jul 2026 13:45:29 -0700</pubDate>
-            <sparkle:version>55</sparkle:version>
-            <sparkle:shortVersionString>1.5.7</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/NotifyYouInc/scoutify-releases/releases/download/v1.5.7/Scoutify-1.5.7.dmg" length="3201992" type="application/octet-stream" sparkle:edSignature="lB8TF55p2LjGMp2XXD7mh3zZjKPQsmqDzdcblVUiOb9AP1+j1W8ia1+P0UjSYlL9sYq0qKYzcwQF0ysZNefPBw=="/>
-            <sparkle:deltas>
-                <enclosure url="https://github.com/NotifyYouInc/scoutify-releases/releases/download/v1.5.7/Scoutify55-54.delta" sparkle:deltaFrom="54" length="157558" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="860560" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="G6WPJwyKEVCWDEwa8QqBuuK2LRyJMV9sfmki11OqtEyZ8pFZ3NnSd8cutclOebLBscHBnUo6H6eD8KOiOrteAQ=="/>
-                <enclosure url="https://github.com/NotifyYouInc/scoutify-releases/releases/download/v1.5.7/Scoutify55-53.delta" sparkle:deltaFrom="53" length="515966" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="860560" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="++CE1wWGMJSQMDH0s+e8B5ssIZRI++6vW8x6EI6Spqv2LaKe92cObKytiWN/pq8VaePMOSU7nb06DL24mkESDg=="/>
-                <enclosure url="https://github.com/NotifyYouInc/scoutify-releases/releases/download/v1.5.7/Scoutify55-51.delta" sparkle:deltaFrom="51" length="575850" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="860560" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="wSKFt7/6eqTqdYPNSd293l/fesXCyxOz9gXcigxhnSL0D3toopnwL7CAdP7fmH/WUcetzNRrLHpknInv9OizBQ=="/>
-                <enclosure url="https://github.com/NotifyYouInc/scoutify-releases/releases/download/v1.5.7/Scoutify55-50.delta" sparkle:deltaFrom="50" length="596362" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="860560" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="SQ4Agy+mrT8bCBWQtN863Fent666QpKhfBYqWl+IETxbZ/geM2gyq/8J8oZEkq1pK3hGOKMfI8AqQ5oQa45WCA=="/>
-                <enclosure url="https://github.com/NotifyYouInc/scoutify-releases/releases/download/v1.5.7/Scoutify55-49.delta" sparkle:deltaFrom="49" length="610734" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="860560" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="/IU4ajsyYWaNuOZsdsLrnsLAtkmhCXtU/3W1LiDJy2vpQnQSs8mc1OWjwn0OlAsEQc/toPWN1r+d0Fd5GQdkCw=="/>
-            </sparkle:deltas>
         </item>
     </channel>
 </rss>
