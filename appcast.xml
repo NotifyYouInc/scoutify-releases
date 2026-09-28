@@ -3,10 +3,18 @@
     <channel>
         <title>Scoutify</title>
         <item>
+            <title>1.5.12</title>
+            <pubDate>Sun, 27 Sep 2026 21:44:46 -0400</pubDate>
+            <sparkle:version>60</sparkle:version>
+            <sparkle:shortVersionString>1.5.12</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/NotifyYouInc/scoutify-releases/releases/download/v1.5.12/Scoutify-1.5.12.dmg" length="3173427" type="application/octet-stream" sparkle:edSignature="I8aF75NSUtZzahBM5XMYzJcrzsX+KFxVwbnYc4wcmFKMgDNk8sA2YmLW0B655v0Ax8IPXUOt8UxEY1jN2azXBQ=="/>
+        </item>
+        <item>
             <title>1.5.11</title>
             <pubDate>Fri, 25 Sep 2026 20:41:06 -0400</pubDate>
             <sparkle:version>59</sparkle:version>
-            <sparkle:criticalUpdate sparkle:version="44"></sparkle:criticalUpdate>
+            <sparkle:criticalUpdate sparkle:version="44"/>
             <sparkle:shortVersionString>1.5.11</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
             <enclosure url="https://github.com/NotifyYouInc/scoutify-releases/releases/download/v1.5.11/Scoutify-1.5.11.dmg" length="3211180" type="application/octet-stream" sparkle:edSignature="uHl8z4MWr/8MpaXMICU9RpeqTLyqR1aeJfvASuK9jWcSbafd4yBbkNl47k2+/AyhGKX/Owr3rKD4A/bjwth4Dg=="/>
@@ -18,14 +26,6 @@
             <sparkle:shortVersionString>1.5.10</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
             <enclosure url="https://github.com/NotifyYouInc/scoutify-releases/releases/download/v1.5.10/Scoutify-1.5.10.dmg" length="3204646" type="application/octet-stream" sparkle:edSignature="6B5OHOqZrD5sjSwqJXXE0eTHCFsCIyWb5UCJnWP5XJw4AohfLjhEqvzmKst5zKsfqpKtN3XFIILzcaO17pDMCQ=="/>
-        </item>
-        <item>
-            <title>1.5.9</title>
-            <pubDate>Sat, 01 Aug 2026 21:09:50 -0400</pubDate>
-            <sparkle:version>57</sparkle:version>
-            <sparkle:shortVersionString>1.5.9</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/NotifyYouInc/scoutify-releases/releases/download/v1.5.9/Scoutify-1.5.9.dmg" length="3203534" type="application/octet-stream" sparkle:edSignature="ZsktZ24XKwEHmktwLHiUL6sAof0Yo87sshwpYiff95Brq6NEyfDP9abSh/aaeLSaPk8KJEmjGkdo89LYc3E1Dw=="/>
         </item>
     </channel>
 </rss>
