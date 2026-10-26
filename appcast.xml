@@ -3,6 +3,14 @@
     <channel>
         <title>Scoutify</title>
         <item>
+            <title>1.5.13</title>
+            <pubDate>Mon, 26 Oct 2026 01:08:52 -0400</pubDate>
+            <sparkle:version>61</sparkle:version>
+            <sparkle:shortVersionString>1.5.13</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/NotifyYouInc/scoutify-releases/releases/download/v1.5.13/Scoutify-1.5.13.dmg" length="2947533" type="application/octet-stream" sparkle:edSignature="AWUhq7zz1zLwB1Y6Sn+tuBaQfLb4E274XQVBYkKGwkLrqp7/I1awGtFuJGYXNQ4EC1uYs/frwAjHGC1MZLcIAA=="/>
+        </item>
+        <item>
             <title>1.5.12</title>
             <pubDate>Sun, 27 Sep 2026 21:44:46 -0400</pubDate>
             <sparkle:version>60</sparkle:version>
@@ -18,14 +26,6 @@
             <sparkle:shortVersionString>1.5.11</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
             <enclosure url="https://github.com/NotifyYouInc/scoutify-releases/releases/download/v1.5.11/Scoutify-1.5.11.dmg" length="3211180" type="application/octet-stream" sparkle:edSignature="uHl8z4MWr/8MpaXMICU9RpeqTLyqR1aeJfvASuK9jWcSbafd4yBbkNl47k2+/AyhGKX/Owr3rKD4A/bjwth4Dg=="/>
-        </item>
-        <item>
-            <title>1.5.10</title>
-            <pubDate>Sun, 02 Aug 2026 15:19:38 -0400</pubDate>
-            <sparkle:version>58</sparkle:version>
-            <sparkle:shortVersionString>1.5.10</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/NotifyYouInc/scoutify-releases/releases/download/v1.5.10/Scoutify-1.5.10.dmg" length="3204646" type="application/octet-stream" sparkle:edSignature="6B5OHOqZrD5sjSwqJXXE0eTHCFsCIyWb5UCJnWP5XJw4AohfLjhEqvzmKst5zKsfqpKtN3XFIILzcaO17pDMCQ=="/>
         </item>
     </channel>
 </rss>
