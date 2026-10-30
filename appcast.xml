@@ -3,6 +3,15 @@
     <channel>
         <title>Scoutify</title>
         <item>
+            <title>1.5.17</title>
+            <pubDate>Fri, 30 Oct 2026 13:53:29 -0400</pubDate>
+            <sparkle:criticalUpdate sparkle:version="44"/>
+            <sparkle:version>65</sparkle:version>
+            <sparkle:shortVersionString>1.5.17</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/NotifyYouInc/scoutify-releases/releases/download/v1.5.17/Scoutify-1.5.17.dmg" length="2957571" type="application/octet-stream" sparkle:edSignature="RD5DsRStfhI7yJ7C/wwAd0kRMybVdSgPvWl5Tqyjj/Cdma5bgJi6tPyZuoE9HKHKAbbBM0lfcwsV1aReNFAXBQ=="/>
+        </item>
+        <item>
             <title>1.5.16</title>
             <pubDate>Tue, 27 Oct 2026 17:42:00 -0400</pubDate>
             <sparkle:version>64</sparkle:version>
@@ -17,15 +26,6 @@
             <sparkle:shortVersionString>1.5.15</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
             <enclosure url="https://github.com/NotifyYouInc/scoutify-releases/releases/download/v1.5.15/Scoutify-1.5.15.dmg" length="2950621" type="application/octet-stream" sparkle:edSignature="j5wo+KZG11WQHj2Uot/fnOQ9aPEx+fpF53YzQVu9LRsB203SY7w5iTvbi9wTeYCCkgXDMU5YNQIC3Au2ZIlICg=="/>
-        </item>
-        <item>
-            <title>1.5.14</title>
-            <pubDate>Mon, 26 Oct 2026 01:50:20 -0400</pubDate>
-            <sparkle:version>62</sparkle:version>
-            <sparkle:criticalUpdate sparkle:version="44"/>
-            <sparkle:shortVersionString>1.5.14</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/NotifyYouInc/scoutify-releases/releases/download/v1.5.14/Scoutify-1.5.14.dmg" length="2947458" type="application/octet-stream" sparkle:edSignature="6iuEmgm8qeFAhjo1nfw8VcBJ9pW4l/VxApmayasaAIcB9cOeiyAztTjw/FqfHtbHE0PFEIiEqnpZus0ClZiLBQ=="/>
         </item>
     </channel>
 </rss>
